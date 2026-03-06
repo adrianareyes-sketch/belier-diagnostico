@@ -258,11 +258,13 @@ ${answersText}
 ${CATALOGO_BELIER}
 
 IMPORTANTE:
+- NO uses markdown, asteriscos (*), hashtags (#) ni ningún símbolo de formato
+- Escribe en texto plano, párrafos naturales y cálidos
 - El Argán es un TRATAMIENTO REGENERADOR INTENSIVO, NO un aceite
 - Solo recomienda productos del catálogo oficial anterior
-- Sé específica y empática
-- Responde en español, máximo 4 oraciones
-- Da un análisis personalizado del estado de las uñas y por qué los productos recomendados son ideales para este caso`
+- Sé específica, cálida y empática
+- Responde en español, máximo 3 oraciones claras
+- Da un análisis personalizado del estado de las uñas y por qué los productos recomendados son ideales`
           }
         ]
       });
@@ -276,10 +278,12 @@ ${answersText}
 ${CATALOGO_BELIER}
 
 IMPORTANTE:
+- NO uses markdown, asteriscos (*), hashtags (#) ni ningún símbolo de formato
+- Escribe en texto plano, párrafos naturales y cálidos
 - El Argán es un TRATAMIENTO REGENERADOR INTENSIVO, NO un aceite
 - Solo menciona productos del catálogo oficial anterior
-- Sé específica y empática
-- Responde en español, máximo 4 oraciones
+- Sé específica, cálida y empática
+- Responde en español, máximo 3 oraciones claras
 - Da un análisis personalizado y explica por qué los productos recomendados son ideales para este caso`
       });
     }
